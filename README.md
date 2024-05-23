@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Nam (Another name is David).
+<h1>👋 Hi, My name is Nam </h1>
+
+
 - 😎 I’m interested in Fintech, Data, AI and Financial Economic.
 - 🌱 I’m currently sophormore at HCMUTrans - Major: Information Technology.
 - 📫 How to reach me: 
